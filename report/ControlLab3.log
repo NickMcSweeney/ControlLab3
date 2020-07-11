@@ -1,0 +1,320 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Arch Linux) (preloaded format=pdflatex 2019.11.15)  10 DEC 2019 19:22
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**ControlLab3.tex
+(./ControlLab3.tex
+LaTeX2e <2019-10-01> patch level 1
+(/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/08/27 v1.4j Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2019/08/27 v1.4j Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/10/08 v1.3c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(/usr/share/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/share/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count88
+\float@exts=\toks15
+\float@box=\box27
+\@float@everytoks=\toks16
+\@floatcapt=\box28
+) (./ControlLab3.aux
+
+LaTeX Warning: Label `fig:yisyr' multiply defined.
+
+
+LaTeX Warning: Label `fig:yr25' multiply defined.
+
+
+LaTeX Warning: Label `fig:yr50' multiply defined.
+
+
+LaTeX Warning: Label `fig:yr75' multiply defined.
+
+
+LaTeX Warning: Label `fig:yisyr' multiply defined.
+
+
+LaTeX Warning: Label `fig:yr25' multiply defined.
+
+
+LaTeX Warning: Label `fig:yr50' multiply defined.
+
+
+LaTeX Warning: Label `fig:yr50' multiply defined.
+
+
+LaTeX Warning: Label `fig:yr50' multiply defined.
+
+
+LaTeX Warning: Label `fig:yr50' multiply defined.
+
+
+LaTeX Warning: Label `fig:yr50' multiply defined.
+
+
+LaTeX Warning: Label `fig:yr50' multiply defined.
+
+
+LaTeX Warning: Label `fig:yr50' multiply defined.
+
+
+LaTeX Warning: Label `fig:yr50' multiply defined.
+
+)
+\openout1 = `ControlLab3.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+ (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count89
+\scratchdimen=\dimen105
+\scratchbox=\box29
+\nofMPsegments=\count90
+\nofMParguments=\count91
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count92
+\MPscratchDim=\dimen106
+\MPnumerator=\count93
+\makeMPintoPDFobject=\count94
+\everyMPtoPDFconversion=\toks18
+) (/usr/share/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/share/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+(/usr/share/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+))))
+(/usr/share/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2019/07/25 v0.30 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 18.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 18.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 18.
+<wt_model_0_25.jpg, id=1, 1013.7875pt x 490.83376pt>
+File: wt_model_0_25.jpg Graphic file (type jpg)
+<use wt_model_0_25.jpg>
+Package pdftex.def Info: wt_model_0_25.jpg  used on input line 26.
+(pdftex.def)             Requested size: 207.0021pt x 100.21713pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 27.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 27.
+<wt_model_0_50.jpg, id=2, 1013.7875pt x 490.83376pt>
+File: wt_model_0_50.jpg Graphic file (type jpg)
+<use wt_model_0_50.jpg>
+Package pdftex.def Info: wt_model_0_50.jpg  used on input line 32.
+(pdftex.def)             Requested size: 207.0021pt x 100.21713pt.
+<wt_model_0_75.jpg, id=3, 1013.7875pt x 490.83376pt>
+File: wt_model_0_75.jpg Graphic file (type jpg)
+<use wt_model_0_75.jpg>
+Package pdftex.def Info: wt_model_0_75.jpg  used on input line 38.
+(pdftex.def)             Requested size: 207.0021pt x 100.21713pt.
+ [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./wt_model_0_25.jpg> <./wt
+_model_0_50.jpg>]
+<wt_model_99_33.jpg, id=17, 1013.7875pt x 490.83376pt>
+File: wt_model_99_33.jpg Graphic file (type jpg)
+<use wt_model_99_33.jpg>
+Package pdftex.def Info: wt_model_99_33.jpg  used on input line 46.
+(pdftex.def)             Requested size: 207.0021pt x 100.21713pt.
+<wt_model_50_50.jpg, id=18, 1013.7875pt x 490.83376pt>
+File: wt_model_50_50.jpg Graphic file (type jpg)
+<use wt_model_50_50.jpg>
+Package pdftex.def Info: wt_model_50_50.jpg  used on input line 54.
+(pdftex.def)             Requested size: 207.0021pt x 100.21713pt.
+<yr_25_uss.jpg, id=19, 1013.7875pt x 1044.90375pt>
+File: yr_25_uss.jpg Graphic file (type jpg)
+<use yr_25_uss.jpg>
+Package pdftex.def Info: yr_25_uss.jpg  used on input line 63.
+(pdftex.def)             Requested size: 137.9979pt x 142.21982pt.
+<yr_50_uss_25.jpg, id=20, 1013.7875pt x 1044.90375pt>
+File: yr_50_uss_25.jpg Graphic file (type jpg)
+<use yr_50_uss_25.jpg>
+Package pdftex.def Info: yr_50_uss_25.jpg  used on input line 69.
+(pdftex.def)             Requested size: 137.9979pt x 142.21982pt.
+ [2 <./wt_model_0_75.jpg> <./wt_model_99_33.jpg> <./wt_model_50_50.jpg>]
+<yr_75_uss.jpg, id=24, 1013.7875pt x 1044.90375pt>
+File: yr_75_uss.jpg Graphic file (type jpg)
+<use yr_75_uss.jpg>
+Package pdftex.def Info: yr_75_uss.jpg  used on input line 75.
+(pdftex.def)             Requested size: 137.9979pt x 142.21982pt.
+
+[3 <./yr_25_uss.jpg> <./yr_50_uss_25.jpg>]
+<yr_50_uss_50.jpg, id=28, 1013.7875pt x 1044.90375pt>
+File: yr_50_uss_50.jpg Graphic file (type jpg)
+<use yr_50_uss_50.jpg>
+Package pdftex.def Info: yr_50_uss_50.jpg  used on input line 83.
+(pdftex.def)             Requested size: 137.9979pt x 142.21982pt.
+<mpc_trajectory.jpg, id=29, 1013.7875pt x 490.83376pt>
+File: mpc_trajectory.jpg Graphic file (type jpg)
+<use mpc_trajectory.jpg>
+Package pdftex.def Info: mpc_trajectory.jpg  used on input line 94.
+(pdftex.def)             Requested size: 310.4979pt x 150.32944pt.
+<mpc_default.jpg, id=30, 1013.7875pt x 490.83376pt>
+File: mpc_default.jpg Graphic file (type jpg)
+<use mpc_default.jpg>
+Package pdftex.def Info: mpc_default.jpg  used on input line 100.
+(pdftex.def)             Requested size: 310.4979pt x 150.32944pt.
+ [4 <./yr_75_uss.jpg> <./yr_50_uss_50.jpg>]
+<mpc_on_off.jpg, id=35, 1013.7875pt x 490.83376pt>
+File: mpc_on_off.jpg Graphic file (type jpg)
+<use mpc_on_off.jpg>
+Package pdftex.def Info: mpc_on_off.jpg  used on input line 110.
+(pdftex.def)             Requested size: 310.4979pt x 150.32944pt.
+ [5 <./mpc_trajectory.jpg> <./mpc_default.jpg>]
+<mpc_pid.jpg, id=39, 1013.7875pt x 490.83376pt>
+File: mpc_pid.jpg Graphic file (type jpg)
+<use mpc_pid.jpg>
+Package pdftex.def Info: mpc_pid.jpg  used on input line 124.
+(pdftex.def)             Requested size: 310.4979pt x 150.32944pt.
+ [6 <./mpc_on_off.jpg>]
+<mpc_modified_model.jpg, id=43, 1013.7875pt x 490.83376pt>
+File: mpc_modified_model.jpg Graphic file (type jpg)
+<use mpc_modified_model.jpg>
+Package pdftex.def Info: mpc_modified_model.jpg  used on input line 138.
+(pdftex.def)             Requested size: 310.4979pt x 150.32944pt.
+
+[7 <./mpc_pid.jpg> <./mpc_modified_model.jpg>]
+<mpc_heavy_modified_model.jpg, id=48, 1013.7875pt x 490.83376pt>
+File: mpc_heavy_modified_model.jpg Graphic file (type jpg)
+<use mpc_heavy_modified_model.jpg>
+Package pdftex.def Info: mpc_heavy_modified_model.jpg  used on input line 147.
+(pdftex.def)             Requested size: 310.4979pt x 150.32944pt.
+<mpc_heavy_modified_model_pid.jpg, id=49, 1013.7875pt x 490.83376pt>
+File: mpc_heavy_modified_model_pid.jpg Graphic file (type jpg)
+<use mpc_heavy_modified_model_pid.jpg>
+Package pdftex.def Info: mpc_heavy_modified_model_pid.jpg  used on input line 1
+57.
+(pdftex.def)             Requested size: 310.4979pt x 150.32944pt.
+ [8 <./mpc_heavy_modified_model.jpg> <./mpc_heavy_modified_model_pid.jpg>]
+<mpc_modified_model_hH.jpg, id=53, 1013.7875pt x 490.83376pt>
+File: mpc_modified_model_hH.jpg Graphic file (type jpg)
+<use mpc_modified_model_hH.jpg>
+Package pdftex.def Info: mpc_modified_model_hH.jpg  used on input line 170.
+(pdftex.def)             Requested size: 310.4979pt x 150.32944pt.
+<mpc_modified_model_hH_ss.jpg, id=54, 1013.7875pt x 490.83376pt>
+File: mpc_modified_model_hH_ss.jpg Graphic file (type jpg)
+<use mpc_modified_model_hH_ss.jpg>
+Package pdftex.def Info: mpc_modified_model_hH_ss.jpg  used on input line 179.
+(pdftex.def)             Requested size: 310.4979pt x 150.32944pt.
+ [9 <./mpc_modified_model_hH.jpg> <./mpc_modified_model_hH_ss.jpg>] [10] (./Con
+trolLab3.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 1659 strings out of 492167
+ 24136 string characters out of 6131557
+ 86650 words of memory out of 5000000
+ 6008 multiletter control sequences out of 15000+600000
+ 8102 words of font info for 29 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 46i,6n,30p,332b,234s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+r12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/s
+hare/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmtt12.pfb>
+Output written on ControlLab3.pdf (10 pages, 640367 bytes).
+PDF statistics:
+ 91 PDF objects out of 1000 (max. 8388607)
+ 51 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 91 words of extra memory for PDF output out of 10000 (max. 10000000)
+
